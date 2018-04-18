@@ -1,0 +1,21 @@
+/*
+Theme Name: Extral
+Theme URI: http://extral.arroba.digital
+Author: Arroba Digital
+Author URI: https://www.arroba.digital
+Description: Arroba Digital Extra Child Theme. This child theme requires Extra theme from Elegant Themes.
+Version: 2.0.9
+Details URI: http://extral.arroba.digital/index.html
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: arroba-digital, extra, child-theme, extral
+Template: Extra
+
+This child theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+@import url("../Extra/style.css");
+
+/* YOUR CSS EDITS GO BELOW THIS LINE AND AND CSS RULES YOU MAKE HERE WILL OVERIDE THE MASTER DIVI THEME CSS RULES */
